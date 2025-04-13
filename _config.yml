@@ -15,9 +15,7 @@ title: Phone Thant Htet's Portfolio # This is what shows up in the tab of the br
 name: Phone Thant Htet
 headline: Mechanical Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello .
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/info_profile.jpg
@@ -88,10 +86,10 @@ formspree-key:   https://formspree.io/f/xldjzvgy
 colors: # this is the basic theme
   text: "#F2F2F2"
   border: "#B87333"
-  link: "#CC5500"
+  link: "#2B2B2B"
   highlight: "#D8C3A5"
   background: "#2B2B2B"
-  light_background: "#4682A9"
+  light_background: "#CC5500"
 
 # A few examples. 
 basic theme:
