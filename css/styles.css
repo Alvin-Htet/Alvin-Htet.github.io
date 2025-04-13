@@ -67,7 +67,7 @@ nav {
     padding: 25px 0;
     height: 80px;
     align-items: center;
-    position: relative;
+    position: fixed;
 }
 
 nav .left a {
