@@ -20,7 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/info_profile.jpg
 
 
 # Link your resume
@@ -86,12 +86,12 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#F2F2F2"
+  border: "#B87333"
+  link: "#4682A9"
+  highlight: "#D8C3A5"
+  background: "#2B2B2B"
+  light_background: "#B0A99F"
 
 # A few examples. 
 basic theme:
