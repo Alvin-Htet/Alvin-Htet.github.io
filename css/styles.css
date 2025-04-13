@@ -65,9 +65,9 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 25px 0;
-    /*height: 80px;*/
+    height: 80px;
     align-items: center;
-    position: fixed;
+    position: relative;
 }
 
 nav .left a {
@@ -148,7 +148,7 @@ nav .mobile-nav {
 
 /* SECTION 1: Hero */
 .hero-section {
-    padding: 25px 50px;
+    padding: 0 50px;
     margin: 50px 0;
     display: flex;  /* This makes .hero-section a flex container */
 
