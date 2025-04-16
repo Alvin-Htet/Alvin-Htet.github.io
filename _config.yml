@@ -83,7 +83,7 @@ colors: # this is the basic theme
   text: "#F2F2F2"
   border: "#C56A31"
   link: "#F2F2F2"
-  highlight: "#4B8CA7"
+  highlight: "#C56A31"
   background: "#1F1F1F"
   light_background: "#C56A31"
 
