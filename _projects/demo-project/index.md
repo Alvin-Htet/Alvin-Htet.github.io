@@ -4,13 +4,11 @@ title: ORG Winder Retrofit
 description:
     Modifying an existing fabric winding machine for semi-automated capabilities. Adding multiple components such as a compression roller, guide arm, and cross cutter to streamline the process. 
 skills: 
-  - Mechanical Design
-  - Material Selection/ Failure Analysis
-  - Stress Analysis/ FEA
-  - Weldments and Sheet Metal
-  - 3D Modelling Complex Assemblies
+  - Material Selection/Failure Analysis
+  - Stress Analysis/FEA
+  - Weldments/Sheet Metal
+  - Modelling Complex Assemblies
   - Technical Drawings
-  - Safety Oriented Design
 
 main-image: /project2.jpg
 ---
