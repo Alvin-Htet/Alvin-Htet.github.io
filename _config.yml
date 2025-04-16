@@ -88,7 +88,7 @@ colors: # this is the basic theme
   border: "#B87333"
   link: "#2B2B2B"
   highlight: "#D8C3A5"
-  background: "#2B2B2B"
+  background: "#F2F2F2"
   light_background: "#CC5500"
 
 # A few examples. 
