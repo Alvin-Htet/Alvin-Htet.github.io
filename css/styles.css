@@ -709,6 +709,10 @@ footer p {
     font-size: calc(10px + 0.5vw); /* Matches p size */
 }
 
+.post-view .content li{
+    color: var(--text-color);
+}
+
 .youtube-container {
     width: 100%;
     max-width: var(--max-width);
