@@ -10,7 +10,7 @@ skills:
   - Modelling Complex Assemblies
   - Technical Drawings
 
-main-image: /project2.jpg
+main-image: /winder_retrofit.png
 ---
 
 ## Roles and Responsibilities
