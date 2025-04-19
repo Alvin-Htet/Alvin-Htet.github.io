@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+title: Coppper-Diamond Composite Research
+description: Conducted research for alternative manufacturing methods of copper-diamond composites to be used as powerful heatsinks. Designed custom lab equipment to streamline testing and production. 
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - 3D Printing
+  - Documentation and Reporting
+  - Data Collection & Interpretation
+  - Thermal & Mechanical Property Testing
+  - Materials Characteriztion
 
 main-image: /work_4.jpg
 ---
 
 ## Roles and Responsibilities
-- Independently led the full mechanical design of the project from concept to final production drawings.
-- Collaborated with a Supervisor to review design decisions, and refine concepts through multiple design review meetings.
-- Integrated feedback and implemented design solutions based on technical discussions.
-- Created detailed manufacturing/ assembly drawings with appropriate tolerances and GD&T.
-- Ensured all components were designed for manufacturability and practical assembly.
+- Supported Experimental research on copper-diamond composite materials as poart of an advanced thermal management study.
+- Prepared and processed material samples using electrodeposition under faculty supervision.
+- Conducted hands-on lab work including making eletrolyte solutions, electrodeposition, and post-processing.
+- Collaborated with supervisors to plan experiments and troubleshoot technical challenges.
+- Maintained detailed experimental logs, data sheets, and test plans to support research reproducibility.
 
 ## Design and Development
 
-##Mechanical Design Overview
+### Experimentation & Analysis
 - Redesigned a manual fabric winder into a semi-automatic system to improve efficiency and reduce manual intervention.
 - Modified a compression roller to maintain consistent fabric tension during winding.
 - Added guide arms to align fabric edges and guide the core as the roll grows.
@@ -29,12 +29,13 @@ main-image: /work_4.jpg
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
 ### Challenges and Solutions
-- Edge Alignment
-- Structural Integrity
-- Compatability
-- Cutter Speed and Wiring Guide
+- Consistency and Reproducibility: Noting down minute details and record actions to minimize deviation and inconsistencies.
+- Contamination Detection: Occational Checking of Contamination on electroplating area and electrolyte liquid surface.
+- Lack of Specific Equipment: Designing custom lab equipment for increased productivity.
+- Efficiency & Process Speed: Push how fast the composite can be processed by supplying more energy and testing results.
 
 ### Tools and Technology Used
-- Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
-- Hand Calculations - Sizing mechanical components
-- Design Reviews - Iterative feedback and refinement
+- 3D Modelling & Printing - Solidworks, Orca, Cura
+- Material Manufacturing - Electrodeposition, 3D Printing
+- Testing Equipment - XRD, Thermocouples
+- Software - MATLAB, Excel, Origin
