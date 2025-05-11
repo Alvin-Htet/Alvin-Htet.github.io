@@ -3,8 +3,10 @@ layout: post
 title: WINDER MODIFICATION
 description:  Design for on site modification of the winder by adding a welded assembly to increase width by 2 feet.
 skills: 
-- skill 1
-- skill 2
+- Machine Design
+- Stress Analysis
+- Weldments/Sheet Metal
+- Modelling Complex Assemblies
 main-image: /winder_mod.png
 ---
 ## Roles and Responsibilities
@@ -17,17 +19,15 @@ main-image: /winder_mod.png
 ## Design and Development
 
 ##Mechanical Design Overview
-- Redesigned a manual fabric winder into a semi-automatic system to improve efficiency and reduce manual intervention.
-- Modified a compression roller to maintain consistent fabric tension during winding.
-- Added guide arms to align fabric edges and guide the core as the roll grows.
-- Implented a side cutter mechanism for clean edge trimming during operation.
+- Redesigned a fabric winder into a semi-automatic system to accomodate winding of wider fabrics.
+- Calculated and verified the strength of the welded frame extension to be safe and strong. 
+- Designed safety guards for operator safety.
+- 3D modelled existing frame by deriving information from pictures and 2D drawings.
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
 ### Challenges and Solutions
-- Edge Alignment
-- Structural Integrity
-- Compatability
-- Cutter Speed and Wiring Guide
+- Structural Intigrity: Calculation and analysis of stresses.
+- Ease of Assembly: Communication with manufacturing plant managers and machinists.
 
 ### Tools and Technology Used
 - Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
