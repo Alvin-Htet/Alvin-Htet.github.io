@@ -5,5 +5,5 @@ description:  Design for on site modification of the winder by adding a welded a
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /winder_mod.png
 ---
