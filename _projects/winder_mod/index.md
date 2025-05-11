@@ -18,7 +18,7 @@ main-image: /winder_mod.png
 
 ## Design and Development
 
-## Mechanical Design Overview
+### Mechanical Design Overview
 - Redesigned a fabric winder into a semi-automatic system to accomodate winding of wider fabrics.
 - Calculated and verified the strength of the welded frame extension to be safe and strong. 
 - Designed safety guards for operator safety.
