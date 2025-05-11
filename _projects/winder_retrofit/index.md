@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ORG Winder Retrofit
+title: ORG WINDER RETROFIT
 description:
     Modifying an existing fabric winding machine for semi-automated capabilities. Adding multiple components such as a compression roller, guide arm, and cross cutter to streamline the process. 
 skills: 
@@ -20,21 +20,19 @@ main-image: /winder_retrofit.png
 - Created detailed manufacturing/ assembly drawings with appropriate tolerances and GD&T.
 - Ensured all components were designed for manufacturability and practical assembly.
 
-## Design and Development
-
-##Mechanical Design Overview
+## Mechanical Design Overview
 - Redesigned a manual fabric winder into a semi-automatic system to improve efficiency and reduce manual intervention.
 - Modified a compression roller to maintain consistent fabric tension during winding.
 - Added guide arms to align fabric edges and guide the core as the roll grows.
 - Implented a side cutter mechanism for clean edge trimming during operation.
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
-### Challenges and Solutions
+## Challenges and Solutions
 - Compatibility: Design according to site and equipment restrictions.
 - Structural Integrity: Calculate and analyze strength of structures using FEA and calculations
 - Cutter Speed and Wiring Guide: Using cable guides such as IGUS
 
-### Tools and Technology Used
+## Tools and Technology Used
 - Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
 - Hand Calculations - Sizing mechanical components
 - Design Reviews - Iterative feedback and refinement
