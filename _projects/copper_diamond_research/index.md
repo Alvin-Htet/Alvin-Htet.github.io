@@ -22,11 +22,9 @@ main-image: /work_4.jpg
 ## Design and Development
 
 ### Experimentation & Analysis
-- Push the limits of the electroplating process to be as energy efficient as possible through various tests.
+- Optimization of the electroplating process to be as energy efficient as possible through various tests.
 - Testing the thermal conductivity of the sample through well documented and structured lab procedures.
-- Authored lab reports and analysis reports that highlights and .
-- Implented a side cutter mechanism for clean edge trimming during operation.
-- Ensured all components were compatible with existing infrastructure and manufacturable.
+- Authored lab reports and analysis reports for reproduction and documentation.
 
 ### Challenges and Solutions
 - Consistency and Reproducibility: Noting down minute details and record actions to minimize deviation and inconsistencies.
