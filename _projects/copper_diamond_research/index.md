@@ -22,9 +22,9 @@ main-image: /work_4.jpg
 ## Design and Development
 
 ### Experimentation & Analysis
-- Redesigned a manual fabric winder into a semi-automatic system to improve efficiency and reduce manual intervention.
-- Modified a compression roller to maintain consistent fabric tension during winding.
-- Added guide arms to align fabric edges and guide the core as the roll grows.
+- Push the limits of the electroplating process to be as energy efficient as possible through various tests.
+- Testing the thermal conductivity of the sample through well documented and structured lab procedures.
+- Authored lab reports and analysis reports that highlights and .
 - Implented a side cutter mechanism for clean edge trimming during operation.
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
@@ -36,6 +36,6 @@ main-image: /work_4.jpg
 
 ### Tools and Technology Used
 - 3D Modelling & Printing - Solidworks, Orca, Cura
-- Material Manufacturing - Electrodeposition, 3D Printing
+- Material Manufacturing - Electrodeposition
 - Testing Equipment - XRD, Thermocouples
 - Software - MATLAB, Excel, Origin
