@@ -15,22 +15,20 @@ main-image: /work_2.jpg
 - Created detailed manufacturing/ assembly drawings with appropriate tolerances and GD&T.
 - Ensured all components were designed for manufacturability and practical assembly.
 
-## Design and Development
-
-##Mechanical Design Overview
+## Mechanical Design Overview
 - Redesigned a manual fabric winder into a semi-automatic system to improve efficiency and reduce manual intervention.
 - Modified a compression roller to maintain consistent fabric tension during winding.
 - Added guide arms to align fabric edges and guide the core as the roll grows.
 - Implented a side cutter mechanism for clean edge trimming during operation.
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
-### Challenges and Solutions
+## Challenges and Solutions
 - Edge Alignment
 - Structural Integrity
 - Compatability
 - Cutter Speed and Wiring Guide
 
-### Tools and Technology Used
+## Tools and Technology Used
 - Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
 - Hand Calculations - Sizing mechanical components
 - Design Reviews - Iterative feedback and refinement
