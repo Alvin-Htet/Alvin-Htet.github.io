@@ -30,10 +30,9 @@ main-image: /winder_retrofit.png
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
 ### Challenges and Solutions
-- Edge Alignment
-- Structural Integrity
-- Compatability
-- Cutter Speed and Wiring Guide
+- Compatibility: Design according to site and equipment restrictions.
+- Structural Integrity: Calculate and analyze strength of structures using FEA and calculations
+- Cutter Speed and Wiring Guide: Using cable guides such as IGUS
 
 ### Tools and Technology Used
 - Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
