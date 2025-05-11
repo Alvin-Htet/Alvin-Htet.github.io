@@ -16,20 +16,18 @@ main-image: /winder_mod.png
 - Created detailed manufacturing/ assembly drawings with appropriate tolerances and GD&T.
 - Ensured all components were designed for manufacturability and practical assembly.
 
-## Design and Development
-
-### Mechanical Design Overview
+## Mechanical Design Overview
 - Redesigned a fabric winder into a semi-automatic system to accomodate winding of wider fabrics.
 - Calculated and verified the strength of the welded frame extension to be safe and strong. 
 - Designed safety guards for operator safety.
 - 3D modelled existing frame by deriving information from pictures and 2D drawings.
 - Ensured all components were compatible with existing infrastructure and manufacturable.
 
-### Challenges and Solutions
+## Challenges and Solutions
 - Structural Intigrity: Calculation and analysis of stresses.
 - Ease of Assembly: Communication with manufacturing plant managers and machinists.
 
-### Tools and Technology Used
+## Tools and Technology Used
 - Autodesk Inventor - 3D modelling, full assembly layout, technical drawings, FEA
 - Hand Calculations - Sizing mechanical components
 - Design Reviews - Iterative feedback and refinement
