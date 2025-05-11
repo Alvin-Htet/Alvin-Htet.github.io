@@ -1,10 +1,10 @@
 ---
 layout: post
-title: University of Ottawa Mars Rover Team
+title: UNIVERSITY OF OTTAWA MARS ROVER TEAM
 description:  Led a team on design, integration, and testing of a prototype mars rover.
 skills: 
-- skill 1
-- skill 2
+- Mechanical Design
+- Robotics
 main-image: /work_2.jpg
 ---
 
